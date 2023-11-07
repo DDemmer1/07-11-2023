@@ -24,3 +24,4 @@ In dieser Aufgabe wird der Umgang mit Methoden geübt.
 Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
 
 - [ 🎥 GitHub Projekte in Eclipse importieren](https://drive.google.com/file/d/1IpwHADmwViEGQ7Pf4BgybUYpz7WBoMe5/view?usp=sharing)
+- [Java Datentypen](https://www.w3schools.com/java/java_data_types.asp)
